@@ -13,11 +13,11 @@
   },
   "Blackberry liqueur": {
     "abv": 40,
-    "taste": null
+    "taste": "sweet"
   },
   "Cachaca": {
     "abv": 40,
-    "taste": null
+    "taste": "spirit"
   },
   "Calvados": {
     "abv": 40,
@@ -25,7 +25,7 @@
   },
   "Campari": {
     "abv": 25,
-    "taste": null
+    "taste": "bitter"
   },
   "Champagne": {
     "abv": 12,
@@ -33,7 +33,7 @@
   },
   "Cherry liqueur": {
     "abv": 30,
-    "taste": null
+    "taste": "sweet"
   },
   "Coconut milk": {
     "abv": 0,
@@ -61,11 +61,11 @@
   },
   "Cream liqueur": {
     "abv": 20,
-    "taste": null
+    "taste": "sweet"
   },
   "Créme liqueur": {
     "abv": 20,
-    "taste": null
+    "taste": "sweet"
   },
   "Dark rum": {
     "abv": 40,
@@ -101,7 +101,7 @@
   },
   "Ginger Ale": {
     "abv": 0,
-    "taste": null
+    "taste": "sweet"
   },
   "Ginger beer": {
     "abv": 5,
@@ -169,7 +169,7 @@
   },
   "Red Port": {
     "abv": 20,
-    "taste": null
+    "taste": "sweet"
   },
   "Soda water": {
     "abv": 0,
@@ -197,7 +197,7 @@
   },
   "Vodka": {
     "abv": 40,
-    "taste": null
+    "taste": "spirit"
   },
   "Whiskey": {
     "abv": 40,
@@ -205,6 +205,6 @@
   },
   "White rum": {
     "abv": 40,
-    "taste": null
+    "taste": "spirit"
   }
 }
